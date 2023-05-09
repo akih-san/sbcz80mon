@@ -1,4 +1,4 @@
-EMUZ80 Monitor Rev.B05.5について
+SBCZ80 Monitor Rev.B05.5について
 
 元々GAME80をEMUZ80上で動作するようにしましたが、
 CP/M-80 Ver2.2用で動作するように修正、拡張したため、
